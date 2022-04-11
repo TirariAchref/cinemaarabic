@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "322931777319",
+    "project_id": "netflix-arabic",
+    "storage_bucket": "netflix-arabic.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:322931777319:android:03b6b0bd81973d768a5302",
+        "android_client_info": {
+          "package_name": "com.example.flutter_netflix_responsive_ui"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "322931777319-nc9o7tpok38elkk5hj5ji20agfaavm08.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApLSR1ZuYrfiQTegiHJz-rMavWDXYfOdU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "322931777319-nc9o7tpok38elkk5hj5ji20agfaavm08.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
